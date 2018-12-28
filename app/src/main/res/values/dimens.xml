@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_regular">10</dimen>
+    <dimen name="line_spacing">1</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutCource</string>
+    <string name="action_settings">Settings</string>
+    <string name="article_subtitle">Article subtitle</string>
+    <string name="article_title">Title</string>
+    <string name="article_text">Lorem ipsum dolores, lorem ipsum dolores,lorem ipsum dolores </string>
+</resources>
